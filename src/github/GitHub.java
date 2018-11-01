@@ -16,6 +16,9 @@ public class GitHub {
      */
     public static void main(String[] args) {
         System.out.println("Hello Word 1");
+        System.out.println("Hello Word 12");
+        System.out.println("Hello Word 13");
+        System.out.println("Hello Word 14");
     }
     
 }
