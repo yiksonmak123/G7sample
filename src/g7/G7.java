@@ -8,6 +8,8 @@ public class G7 {
         System.out.println("Hello world!");
             System.out.println("fuck you");
             System.out.println("fuck you111");
+            System.out.println("fuck you11112312");
     }
+            
     
 }
